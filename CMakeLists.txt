@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 2.8.12)
+set(PROJECT_NAME "vlk_py")
+if (CMAKE_VERSION VERSION_LESS 3.0)
+    project(${PROJECT_NAME} C CXX)
+else()
+    cmake_policy(SET CMP0048 NEW)
+    project(${PROJECT_NAME} VERSION "${PROJECT_VERSION}" LANGUAGES C CXX)
+endif()
+
+if (NOT CMAKE_SIZEOF_VOID_P EQUAL 8)
+    message(FATAL_ERROR "oneDNN supports 64 bit platforms only")
+endif()
+
+add_subdirectory(third_party/pybind11)
+add_subdirectory(src)

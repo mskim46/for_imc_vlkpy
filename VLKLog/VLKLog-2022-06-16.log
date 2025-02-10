@@ -1,0 +1,8 @@
+debug:[ViewLink.cpp][57][VLK_Init]########### ViewLink SDK 3.0.7 initialized ###########
+debug:[ViewLink.cpp][145][VLK_RegisterDevStatusCB]VLK_RegisterDevStatusCB
+debug:[ViewLink.cpp][75][VLK_Connect]VLK_Connect
+debug:[TCPConnection.cpp][161][SocketCallback]TCP Gimbal Connected !!!!!!!!!!!!
+debug:[DeviceConnection.cpp][1429][ProcSayHelloResponse]current connected device type: TIR
+debug:[DeviceConnection.cpp][1489][ProcSayHelloResponse]hand shake success! enjoy !!!
+debug:[ViewLink.cpp][356][VLK_TurnTo]VLK_TurnTo
+debug:[ViewLink.cpp][356][VLK_TurnTo]VLK_TurnTo

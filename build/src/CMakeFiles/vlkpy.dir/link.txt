@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -flto -shared  -o vlkpy.cpython-310-aarch64-linux-gnu.so CMakeFiles/vlkpy.dir/src.cpp.o   -L/home/rgblab/ViewLink/ViewLink_Python/third_party/libs  -Wl,-rpath,/home/rgblab/ViewLink/ViewLink_Python/third_party/libs -lViewLink 

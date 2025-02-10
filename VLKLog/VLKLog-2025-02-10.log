@@ -1,0 +1,23 @@
+debug:[ViewLink.cpp][65][VLK_Init]########### ViewLink SDK 3.4.9 initialized ###########
+debug:[ViewLink.cpp][214][VLK_RegisterDevStatusCB]VLK_RegisterDevStatusCB
+debug:[ViewLink.cpp][77][VLK_Connect]VLK_Connect
+debug:[ViewLink.cpp][65][VLK_Init]########### ViewLink SDK 3.4.9 initialized ###########
+debug:[ViewLink.cpp][214][VLK_RegisterDevStatusCB]VLK_RegisterDevStatusCB
+debug:[ViewLink.cpp][77][VLK_Connect]VLK_Connect
+debug:[TCPConnection.cpp][173][SocketCallback]YEK_CONNECT_RESPONSE event->status() == 110
+debug:[ViewLink.cpp][65][VLK_Init]########### ViewLink SDK 3.4.9 initialized ###########
+debug:[ViewLink.cpp][214][VLK_RegisterDevStatusCB]VLK_RegisterDevStatusCB
+debug:[ViewLink.cpp][77][VLK_Connect]VLK_Connect
+debug:[TCPConnection.cpp][163][SocketCallback]TCP Gimbal Connected !!!!!!!!!!!!
+debug:[DeviceConnection.cpp][1762][ProcSayHelloResponse]current connected device type: TIR
+debug:[DeviceConnection.cpp][1822][ProcSayHelloResponse]hand shake success! enjoy !!!
+debug:[ViewLink.cpp][436][VLK_TurnTo]VLK_TurnTo
+debug:[ViewLink.cpp][436][VLK_TurnTo]VLK_TurnTo
+debug:[ViewLink.cpp][65][VLK_Init]########### ViewLink SDK 3.4.9 initialized ###########
+debug:[ViewLink.cpp][214][VLK_RegisterDevStatusCB]VLK_RegisterDevStatusCB
+debug:[ViewLink.cpp][77][VLK_Connect]VLK_Connect
+debug:[TCPConnection.cpp][163][SocketCallback]TCP Gimbal Connected !!!!!!!!!!!!
+debug:[DeviceConnection.cpp][1762][ProcSayHelloResponse]current connected device type: TIR
+debug:[DeviceConnection.cpp][1822][ProcSayHelloResponse]hand shake success! enjoy !!!
+debug:[ViewLink.cpp][436][VLK_TurnTo]VLK_TurnTo
+debug:[ViewLink.cpp][436][VLK_TurnTo]VLK_TurnTo
